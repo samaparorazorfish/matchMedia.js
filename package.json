@@ -1,0 +1,22 @@
+{
+  "name": "matchMedia.js",
+  "version": "1.0.0",
+  "description": "matchMedia polyfill",
+  "main": "matchMedia.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samaparorazorfish/matchMedia.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samaparorazorfish/matchMedia.js/issues"
+  },
+  "homepage": "https://github.com/samaparorazorfish/matchMedia.js"
+}
